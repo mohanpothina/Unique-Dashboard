@@ -1,0 +1,34 @@
+/* Dashboard.css */
+/* Dashboard.css */
+/* src/pages/Dashboard.css */
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.MuiButton-root {
+    width: 100%;
+}
+
+.MuiCardContent-root {
+    padding: 16px;
+}
+
+.MuiPaper-root {
+    background-color: #f4f7f9;
+}
+
+.MuiTableCell-head {
+    font-weight: bold;
+    background-color: #e8f5e9;
+}
+
+.MuiTableRow:hover {
+    background-color: #f1f8e9;
+}
